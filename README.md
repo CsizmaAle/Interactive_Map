@@ -1,6 +1,6 @@
 # Interactive Map of Computer Science 🧠💻
 
->**Last update:** June 2026  
+>**Last update:** June 2025  
 
 This project provides an **interactive map of computer science**, designed to explore its main areas and activities, organized across multiple depth levels.  
 > **Note:** This project was developed exclusively for academic and educational purposes as part of university coursework. It is intended only for this context and has no commercial purpose.
